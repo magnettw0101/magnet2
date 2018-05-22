@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/magnettw0101/magnet2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magnettw0101/magnet2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>
+強力磁鐵簡介</h2>
+<br />
+<a href="https://www.allergen.com.tw/magnet/" target="_blank">強力磁鐵是指釹鐵硼磁鐵</a>。它相比於鐵氧體磁鐵、鋁鎳鈷、釤鈷的磁性能大大的超越了其他幾種磁鐵，釹鐵硼磁鐵可以吸附本身重量的640倍的重量，所以釹鐵硼常被業外人士稱為強力磁鐵。<br />
+<h2>
+簡介</h2>
+<div>
+<a href="https://www.allergen.com.tw/magnet/" target="_blank">磁鐵是什麼</a>，磁鐵是指可以產生磁場的物體或材質，具有吸引鐵磁性物質如鐵、鎳、鈷等金屬的特性，傳統上可分作“永久性磁鐵”與“非永久性磁鐵”。<br />
+永久性磁鐵可以是天然產物，又稱天然磁石，也可以由人工製造（最強的磁鐵是釹鐵硼磁鐵）。而非永久性磁鐵，則會失去磁性。<br />
+古希臘人和中國人發現自然界中有種天然磁化的石頭，稱其為“ 吸鐵石 ”。這種石頭可以魔術般的吸起小塊的鐵片，而且在隨意擺動後總是指向同一方向。早期的航海者把這種磁鐵作為其最早的指南針在海上來辨別方向。<br />
+經過千百年的發展，今天磁鐵已成為我們生活中的必不可少的功能材料。通過先進的粉末冶金工藝合成不同材料的合金，可以達到並超過與吸鐵石的效果，而且還可以最大限度地提高磁力。在18世紀就出現了人造的磁鐵，但製造更高磁力材料的過程卻十分緩慢，直到20世紀20年代製造出鋁鎳鈷(AlNiCo)。隨後，1948年製造出了鐵氧體(Ferrite),70年代製造出稀土磁鐵[Rare Earth magnet ]釤鈷(SmCo)，1986年釹鐵硼(NdFeB)誕生，這是迄今為止世界上最強的磁鐵。至此，物理磁學科技得到了飛速的發展，強磁材料也使得元件更加小型化，1999年淄博盛金磁鐵以自主組合的13000GS稀土強磁鐵突破了行業先例，並很快在業界推廣開來，中國稀土磁行業迎來了快速發展的新天地。<br />
+<h2>
+磁化方向</h2>
+</div>
+<div>
+大多數磁性材料可以沿同一方向充磁至飽和，這一方向叫做“磁化方向”（取向方向）。沒有取向方向的磁鐵（也叫做各向同性磁鐵）比取向磁鐵（也叫各向異性磁鐵）的磁性要弱很多。</div>
+<div>
+<h3>
+什麼是標準的“南北極”工業定義？</h3>
+</div>
+<div>
+“北極”的定義是磁鐵在隨意旋轉後它的北極指向地球的北極。同樣，磁鐵的南極也指向地球的南極。</div>
+<div>
+<h3>
+在沒有標註的情況下如何辨別磁鐵的北極？</h3>
+</div>
+<div>
+很顯然只憑眼睛是無法分辨的。可以使用指南針貼近磁鐵，指向地球北極的指針會指向磁鐵的南極。</div>
+<div>
+<h3>
+如何安全的處理和存放磁鐵？</h3>
+</div>
+<div>
+要始終十分小心，因為磁鐵會自己吸附到一起，可能會夾傷手指。磁鐵相互吸附時也有可能會因碰撞而損壞磁鐵本身（碰掉邊角或撞出裂紋）。</div>
+<div>
+<br />
+將磁鐵遠離易被磁化的物品，如軟盤，信用卡，電腦顯示器，手錶，手機，醫療器械等。<br />
+磁鐵應遠離心臟起搏器。</div>
+<div>
+<br />
+較大尺寸的磁鐵，每片之間應加塑料或硬紙墊片以保證可以輕易地將磁鐵分開。<br />
+磁鐵應盡量存放在乾燥，恆溫的環境中。</div>
+<div>
+<h3>
+如何做到隔磁？</h3>
+</div>
+<div>
+只有能吸附到磁鐵上的材料才能起到隔斷磁場的作用，而且材料越厚，隔磁的效果越好。</div>
+<h3>
+什麼是最強的磁鐵？</h3>
+<div>
+目前最高性能的磁鐵是稀土類磁鐵，而在稀土磁鐵中釹鐵硼是最強力的磁鐵。但在200℃以上的環境中，釤鈷是最強力的磁鐵。</div>
